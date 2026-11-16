@@ -1,6 +1,6 @@
 # Cruiser releases
 
-Downloads for **Cruiser**, the AI that lives in your cursor: point at anything on your
+Downloads for **[Cruiser](https://cruiser-ai.com)**, the AI that lives in your cursor: point at anything on your
 screen, press one shortcut, and the answer appears right beside it.
 
 ## Install

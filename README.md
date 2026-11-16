@@ -13,4 +13,4 @@ screen, press one shortcut, and the answer appears right beside it.
 Cruiser checks this page for updates and installs one only when its SHA-256 matches the
 `.sha256` file published beside it.
 
-Windows 10 and 11, 64-bit.
+For 64-bit Windows 11.
